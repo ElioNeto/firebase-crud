@@ -1,0 +1,20 @@
+<!-- The core Firebase JS SDK is always required and must be listed first -->
+<script src="https://www.gstatic.com/firebasejs/5.11.1/firebase-app.js"></script>
+
+<!-- TODO: Add SDKs for Firebase products that you want to use
+     https://firebase.google.com/docs/web/setup#config-web-app -->
+
+<script>
+  // Your web app's Firebase configuration
+  var firebaseConfig = {
+    apiKey: "AIzaSyBqsM-agXrT98C7_KhFfQ8_nVqXYVpAzLE",
+    authDomain: "automacao-a9861.firebaseapp.com",
+    databaseURL: "https://automacao-a9861.firebaseio.com",
+    projectId: "automacao-a9861",
+    storageBucket: "automacao-a9861.appspot.com",
+    messagingSenderId: "644189323232",
+    appId: "1:644189323232:web:6a40586a61a1528c"
+  };
+  // Initialize Firebase
+  firebase.initializeApp(firebaseConfig);
+</script>
