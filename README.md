@@ -9,3 +9,8 @@
 
 # ***Execução***
 	sudo npm start
+
+
+# ***Caso ocorra erro de permissão***
+	npm config set unsafe-perm true
+	sudo npm install node-sass
